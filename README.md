@@ -16,5 +16,6 @@
 
 \> Bisexual
 
-\> He/Him
+\> [Discord](https://discord.com/users/604967311773925377)
+
 
