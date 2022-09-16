@@ -1,5 +1,5 @@
 
-[![He/Him](https://img.shields.io/badge/Prounouns-He%2FHIm-red)][https://pronoun.is/he]
+[![He/Him Pronouns](https://img.shields.io/badge/Prounouns-He%2FHIm-red)](https://pronoun.is/he)
 
 # About Me 
 \> 12 year's of age
