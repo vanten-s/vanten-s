@@ -1,18 +1,14 @@
 
-[![He/Him Pronouns](https://img.shields.io/badge/Prounouns-He%2FHIm-red)](https://pronoun.is/he)
+![Any Pronouns](https://img.shields.io/badge/Prounouns-Any-red)
 
-# About Me 
-\> 12 year's of age
-
+# About Me
 \> Born and living in Falun, Sweden
 
-\> Listens to Eminem and Cavetown
+\> Studiying at a local school in Falun
 
 \> Master in Python and Java
 
-\> Ok at C and C++
-
-\> Trying to learn Rust
+\> Decent at Rust, C and C++
 
 \> Bisexual
 
