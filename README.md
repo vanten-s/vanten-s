@@ -12,6 +12,6 @@
 
 \> Bisexual
 
-\> [Discord](https://discord.com/users/604967311773925377)
+\> [Discord: Knut#5205](https://discord.com/users/604967311773925377)
 
 
