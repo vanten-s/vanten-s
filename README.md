@@ -1,17 +1,36 @@
 
-![Any Pronouns](https://img.shields.io/badge/Prounouns-Any-red)
+![Any Pronouns](https://img.shields.io/badge/Prounouns-Any-pink)
 
-# About Me
+## About Me
 \> Born and living in Falun, Sweden
 
 \> Studiying at a local school in Falun
 
-\> Master in Python and Java
+## Languages
+\> Pretty good in 
+- Python
+- Rust
 
-\> Decent at Rust, C and C++
+\> Decent at 
+- Java
+- Javascript
+- Bash
+- C#
 
-\> Bisexual
+\> Can atleast use 
+- C 
+- C++
+- Go
 
+\> I'm really bad at languages I haven't listed.
+
+## Contacting
 \> [Discord: Knut#5205](https://discord.com/users/604967311773925377)
 
+\> Matrix: @vanten-s:matrix.org
 
+\> Snapchat: vanten-s
+
+\> Instragram: svantespaa
+
+\> [Mail: svante.spannar@gmail.com](mailto:svante.spannar@gmail.com)
