@@ -33,4 +33,4 @@
 
 \> Instragram: svantespaa
 
-\> [Mail: svante.spannar@gmail.com](mailto:svante.spannar@gmail.com) (this will probably change soon as I'm setting up a mail server)
+\> [Mail: svante.spannar@gmail.com](mailto:svante.spannar@gmail.com)
