@@ -26,13 +26,7 @@
 
 ![](https://stallman.org/no-facebook.svg)
 
-## Contacting
-\> [Discord: Knut#5205](https://discord.com/users/604967311773925377)
-
+## Contact
 \> Matrix: @vanten-s:matrix.org
-
-\> Snapchat: vanten-s
-
-\> Instragram: svantespaa
 
 \> [Mail: vanten-s@vanten-s.com](mailto:vanten-s@vanten-s.com)
