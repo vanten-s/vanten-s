@@ -6,6 +6,8 @@
 
 \> Studiying at a local school in Falun
 
+\> Currently not programming much but I often do server admin work
+
 ## Languages
 \> Pretty good in 
 - Python
