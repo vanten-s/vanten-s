@@ -6,7 +6,7 @@
 
 \> Studiying at a local school in Falun
 
-\> Currently not programming much but I often do server admin work
+\> Currently I'm not programming much but I often do server admin work
 
 ## Languages
 \> Pretty good in 
@@ -24,7 +24,7 @@
 - C++
 - Go
 
-\> I'm really bad at languages I haven't listed.
+\> I'm really bad at languages I haven't listed and I almost exclusively do backend stuff.
 
 ![](https://stallman.org/no-facebook.svg)
 
