@@ -33,8 +33,6 @@
 
 \> [Mastodon: @vanten_s@kolektiva.social](https://kolektiva.social/@vanten_s)
 
-\> [Mastodon: @vanten_s@mas.to](https://mas.to/@vanten_s)
-
 \> [GPG Key: 58D7A3458C36566E2088A04ADE3060396884D3F2](https://keys.openpgp.org/vks/v1/by-fingerprint/58D7A3458C36566E2088A04ADE3060396884D3F2)
 
 \> [Mail: vanten-s@vanten-s.com](mailto:vanten-s@vanten-s.com)
