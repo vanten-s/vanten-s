@@ -15,14 +15,11 @@
 
 \> Decent at 
 - Java
-- Javascript
 - Bash
-- C#
 
 \> Can atleast use 
 - C 
 - C++
-- Go
 
 \> I'm really bad at languages I haven't listed and I almost exclusively do backend stuff.
 
